@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.hero{
+    text-align: center;
+    color: rgb(31, 69, 196);
+    padding: 300px;
+}
+.column{
+    color: rgb(18, 18, 192) ;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    justify-content: space-between;
+    position: relative;
+    flex-basis: 30%;
+}
+.container{
+    text-align: center;
+    padding: 200px;
+
+}
